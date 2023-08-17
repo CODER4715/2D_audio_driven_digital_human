@@ -1,0 +1,2 @@
+# 2D_audio_driven_digital_human
+第十四届全国大学生服务外包创新创业大赛企业类命题A15-2d虚拟人语音驱动算法
